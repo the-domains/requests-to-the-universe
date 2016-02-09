@@ -32,8 +32,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bodymindsoulspirit.com/subconscious-mind-to-manifest/'
 title: 'Use The Power Of Your Subconscious Mind To Manifest!'
-datePublished: '2016-02-09T11:52:54.455Z'
-dateModified: '2016-02-09T11:45:35.992Z'
+datePublished: '2016-02-09T11:53:09.347Z'
+dateModified: '2016-02-09T11:42:30.223Z'
 sourcePath: _posts/2016-02-09-use-the-power-of-your-subconscious-mind-to-manifest.md
 published: true
 inFeed: true
