@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[How Can You Manifest Your Destiny?]]></title>
+        <description><![CDATA[How Can You Manifest Your Destiny?]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 10:22:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b741074-8130-4c8d-bfc8-080899bb1248.jpg">]]></description>
+            <link>undefined25390ade-eac7-4b56-8be8-0a9297c27959/index.html</link>
+            <guid isPermaLink="false">25390ade-eac7-4b56-8be8-0a9297c27959</guid>
+            <pubDate>Tue, 09 Feb 2016 10:22:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
