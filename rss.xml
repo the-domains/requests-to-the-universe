@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[How Can You Manifest Your Destiny?]]></title>
         <description><![CDATA[How Can You Manifest Your Destiny?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/requests-to-the-universe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 10:22:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 11:44:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/requests-to-the-universe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b741074-8130-4c8d-bfc8-080899bb1248.jpg">]]></description>
-            <link>undefined25390ade-eac7-4b56-8be8-0a9297c27959/index.html</link>
+            <title><![CDATA[The Secret Of Manifesting: the story behind Requests To The Universe]]></title>
+            <description><![CDATA[<article><h1>The Secret Of Manifesting: the story behind Requests To The Universe</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e6562c15675f57930b02e478a6dd96fa19584c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/requests-to-the-universe/25390ade-eac7-4b56-8be8-0a9297c27959/index.html</link>
             <guid isPermaLink="false">25390ade-eac7-4b56-8be8-0a9297c27959</guid>
-            <pubDate>Tue, 09 Feb 2016 10:22:16 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 11:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
